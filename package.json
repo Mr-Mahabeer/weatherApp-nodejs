@@ -1,0 +1,16 @@
+{
+  "name": "weatherapp",
+  "version": "1.0.0",
+  "description": "This is the realtime weather application to show the weather of the given location. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mr.Mahabeer",
+  "license": "ISC",
+  "dependencies": {
+    "@supercharge/request-ip": "^1.1.2",
+    "geoip-lite": "^1.4.2",
+    "requests": "^0.3.0"
+  }
+}
